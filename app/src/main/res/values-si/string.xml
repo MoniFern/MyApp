@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name" translatable="false">MyApp</string>
+    <string name="name_field">නම :</string>
+    <string name="age_field">වයස :</string>
+    <string name="con_field">දුරකතනය :</string>
+</resources>
